@@ -6,6 +6,7 @@ public class Rozdzial2 {
 //        Zadanie3 zad3 = new Zadanie3();
 //        Zadanie4 zad4 = new Zadanie4();
 //        Zadanie5 zad5 = new Zadanie5();
-        Zadanie6 zad6 = new Zadanie6();
+//        Zadanie6 zad6 = new Zadanie6();
+        Zadanie7 zad7 = new Zadanie7();
     }
 }
