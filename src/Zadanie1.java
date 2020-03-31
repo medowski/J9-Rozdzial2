@@ -13,13 +13,14 @@ public class Zadanie1 {
         monthLength = data.lengthOfMonth();
         LocalDate data1 = LocalDate.of(data.getYear(),data.getMonthValue(),1);
 
-        System.out.println("Data: "+data);
-        System.out.println("Pierwszy dzien miesiąca to: "+data1.getDayOfWeek());
 
         pierwszyDzienMiesiaca = data1.getDayOfWeek().getValue()%7;
     }
 
     public void displayCalendar() {
+        System.out.println("Data: "+data);
+        System.out.println("Pierwszy dzien miesiąca to: "+data1.getDayOfWeek());
+
         String s0 = " --------------------";
         String s1 = "";
 
