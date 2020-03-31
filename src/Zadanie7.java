@@ -12,6 +12,7 @@ class Car {
 }
 public class Zadanie7 {
     Zadanie7() {
-        Car autko = new Car();
+        Car autko = new Car();  /* bak ma 50l */
+
     }
 }
