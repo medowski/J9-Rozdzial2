@@ -24,6 +24,8 @@ public class Zadanie8 {
 
 ///        z1.display();
         Zadanie8.display(z1);
+        Zadanie8.display(z2);
+        Zadanie8.display(z3);
 //        display(z2);
     }
 
